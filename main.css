@@ -1,0 +1,18 @@
+nav {
+    float: left;
+    width: 10%
+}
+main {
+    float: left;
+    width: 45%
+}
+aside {
+    float: left;
+    width: 45%;
+}
+.picture {
+    width: 30em;
+}
+footer {
+    clear: both;
+}
